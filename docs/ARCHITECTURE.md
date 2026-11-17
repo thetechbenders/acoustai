@@ -33,4 +33,4 @@ ESP32-S3 development board, I²S MEMS microphone, local indicator, reversible mo
 2. Feature contract (window/hop length, normalization, numerical equivalence).
 3. Model contract (version, feature schema, label meanings, confidence behavior).
 4. Event contract (time, class, score, state, reason for warning).
-5. Evaluation contract (fault ground truth, held-out split, thresholds, alarm counts).
+5. Evaluation contract (fault ground truth, held-out split, thresholds, alarm counts): [v0.1 detection acceptance contract](DETECTION-ACCEPTANCE.md) (proposed; pending review).
