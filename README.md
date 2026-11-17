@@ -83,7 +83,7 @@ No custom PCB, permanent modification, or printer-firmware dependency is require
 | **M3 · Embedded Intelligence** | Quantized model runs on target and demonstrates a defensible benefit |
 | **M4 · Prototype** | Integrated, alert-only hardware demonstrates bounded, repeatable detection |
 
-Milestone names describe planned work, not completed achievements. See [Issues](https://github.com/thetechbenders/anaAI/issues) for the active backlog.
+Milestone names describe planned work, not completed achievements. See [Issues](https://github.com/thetechbenders/acoustai/issues) for the active backlog.
 
 ## What success means
 
@@ -103,7 +103,7 @@ Automatic pause commands, cloud inference, voice assistants, multi-printer fleet
 
 ## Working on AcoustAI
 
-- Start with the [issue tracker](https://github.com/thetechbenders/anaAI/issues) and choose a small measurable slice.
+- Start with the [issue tracker](https://github.com/thetechbenders/acoustai/issues) and choose a small measurable slice.
 - Keep raw acoustic recordings and potentially identifying background speech out of Git history. Use a documented consent and data-retention policy.
 - Prefer reversible hardware setups and explicit operator control.
 - Distinguish simulations, host tests, embedded builds, and actual printer trials.

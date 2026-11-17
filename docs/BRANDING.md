@@ -7,7 +7,7 @@ The **AcoustAI M0.01** PNG exports preserve the established cyberpunk mascot and
 | README banner | [`assets/acoustai-banner.png`](../assets/acoustai-banner.png) | [`anaai-banner.png`](../assets/anaai-banner.png) |
 | Avatar | [`assets/acoustai-avatar.png`](../assets/acoustai-avatar.png) | [`anaai-avatar.png`](../assets/anaai-avatar.png) |
 | Mascot/nameplate | [`assets/acoustai-mascot-plaque.png`](../assets/acoustai-mascot-plaque.png) | [`anaai-mascot-plaque.png`](../assets/anaai-mascot-plaque.png) |
-| Social preview (1280×640) | [`assets/acoustai-social-preview-1280x640.png`](../assets/acoustai-social-preview-1280x640.png) | Current GitHub setting remains unchanged until separately uploaded |
+| Social preview (1280×640) | [`assets/acoustai-social-preview-1280x640.png`](../assets/acoustai-social-preview-1280x640.png) | Uploaded by the repository owner on 2026-11-17 (owner-reported; not independently inspected via settings API) |
 
 The earlier SVG assets (`anaai-banner.svg`, `anaai-mark.svg`) also remain as historical branding alternatives.
 
@@ -15,7 +15,7 @@ The earlier SVG assets (`anaai-banner.svg`, `anaai-mark.svg`) also remain as his
 
 **Approved AcoustAI exports (folder retains its original name):** [AcoustAI M0.01 · Proposed Branding](https://drive.google.com/drive/folders/1zhaqlQSDHd2L7TaskkcR7Ok-_VTWqppw).
 
-The social-preview PNG is present in the repository and Drive, but **has not been applied in GitHub's Social preview settings**. The live repository rename likewise remains a separate administrative action.
+The repository owner reports installing the approved social-preview PNG in GitHub settings on 2026-11-17. The repository rename to `thetechbenders/acoustai` is independently verified by repository ID `1450691200`. The social-preview setting itself has not been independently inspected through GitHub's settings API.
 
 See the [M0.01 artwork checklist](M0.01-IDENTITY-MIGRATION.md#artwork-replacement-checklist) for acceptance steps.
 
