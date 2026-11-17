@@ -1,8 +1,8 @@
 # AcoustAI branding and permissions
 
-The **AcoustAI M0.01** PNG exports preserve the established cyberpunk mascot and replace only the legacy lettering in the banner and nameplate. The square avatar is a pixel-identical PNG re-export of the approved Baseline 2 avatar. These are **proposed brand replacements pending final owner visual acceptance**; old files remain intact for rollback.
+The **AcoustAI M0.01** PNG exports preserve the established cyberpunk mascot and replace only the legacy lettering in the banner and nameplate. The square avatar is a byte-identical copy of the approved Baseline 2 avatar. **Dan visually approved all four AcoustAI assets on 2026-11-17.** Old files remain intact for rollback.
 
-| Asset | Current AcoustAI candidate | Preserved legacy asset |
+| Asset | Approved AcoustAI asset | Preserved legacy asset |
 | --- | --- | --- |
 | README banner | [`assets/acoustai-banner.png`](../assets/acoustai-banner.png) | [`anaai-banner.png`](../assets/anaai-banner.png) |
 | Avatar | [`assets/acoustai-avatar.png`](../assets/acoustai-avatar.png) | [`anaai-avatar.png`](../assets/anaai-avatar.png) |
@@ -13,7 +13,7 @@ The earlier SVG assets (`anaai-banner.svg`, `anaai-mark.svg`) also remain as his
 
 **Original approved art:** [Techbenders Drive · Projects / anaAI](https://drive.google.com/drive/folders/1jzh3H39KRWWqc_C7ELc-E7PMwXhw-Sgw).
 
-**New candidate exports:** [AcoustAI M0.01 · Proposed Branding](https://drive.google.com/drive/folders/1zhaqlQSDHd2L7TaskkcR7Ok-_VTWqppw).
+**Approved AcoustAI exports (folder retains its original name):** [AcoustAI M0.01 · Proposed Branding](https://drive.google.com/drive/folders/1zhaqlQSDHd2L7TaskkcR7Ok-_VTWqppw).
 
 The social-preview PNG is present in the repository and Drive, but **has not been applied in GitHub's Social preview settings**. The live repository rename likewise remains a separate administrative action.
 
@@ -23,7 +23,7 @@ See the [M0.01 artwork checklist](M0.01-IDENTITY-MIGRATION.md#artwork-replacemen
 
 We want AcoustAI's mascot to be recognizable, fun to draw, and welcoming to the maker community, without allowing unrelated businesses to present themselves as the official project.
 
-**To the extent the project owner controls the relevant rights**, the following permissions are offered for the repository's original anaAI mascot, logo, banner, and associated brand illustrations:
+**To the extent the project owner controls the relevant rights**, the following permissions are offered for the repository's AcoustAI (formerly anaAI) mascot, logos, banners, and associated brand illustrations, including legacy anaAI artwork:
 
 - **Noncommercial sharing:** You may repost the official images, use them when discussing or linking to the project, and create and share noncommercial fan art or remixes.
 - **Attribution:** Credit **AcoustAI / Techbenders** and link to this repository where reasonably practical. For altered art, say that it is unofficial fan work.
