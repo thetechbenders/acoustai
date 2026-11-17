@@ -6,7 +6,7 @@ This is an evidence-led research roadmap, not a delivery promise.
 |---|---|---|
 | M0 · Foundation | Scope, documentation, issue plan, evaluation definitions | Reviewable baseline and prioritized backlog |
 | M1 · Acoustic Evidence | Recorded and independently labeled positive/negative examples | Dataset coverage and recording provenance documented |
-| M2 · Classical Baseline | Reproducible non-ML detector | Held-out metrics, false alarms/hour and error analysis |
+| M2 · Classical Baseline | Reproducible non-ML detector | Development-validation metrics, false alarms/hour and error analysis; sealed-holdout scoring deferred to the frozen M2/M3 comparison |
 | M3 · Embedded Intelligence | Quantized ML running on ESP32-S3 | Actual target timings and paired comparison with DSP |
 | M4 · Prototype | Self-contained alert-only module | Documented hardware tests and repeatable demonstration |
 
