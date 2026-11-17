@@ -1,18 +1,23 @@
 # AcoustAI branding and permissions
 
-The original **Approved Baseline 2** PNGs carry the former anaAI name and remain the approved artwork pending owner-approved AcoustAI replacements. The repository copies came from the Techbenders Google Drive project folder. These assets have separate brand-use permissions.
+The **AcoustAI M0.01** PNG exports preserve the established cyberpunk mascot and replace only the legacy lettering in the banner and nameplate. The square avatar is a pixel-identical PNG re-export of the approved Baseline 2 avatar. These are **proposed brand replacements pending final owner visual acceptance**; old files remain intact for rollback.
 
-| Asset | Repository file | Intended use |
+| Asset | Current AcoustAI candidate | Preserved legacy asset |
 | --- | --- | --- |
-| Banner | [`assets/anaai-banner.png`](../assets/anaai-banner.png) | README header and large-format branding |
-| Avatar | [`assets/anaai-avatar.png`](../assets/anaai-avatar.png) | Square avatar |
-| Mascot + nameplate | [`assets/anaai-mascot-plaque.png`](../assets/anaai-mascot-plaque.png) | Project identity illustration |
+| README banner | [`assets/acoustai-banner.png`](../assets/acoustai-banner.png) | [`anaai-banner.png`](../assets/anaai-banner.png) |
+| Avatar | [`assets/acoustai-avatar.png`](../assets/acoustai-avatar.png) | [`anaai-avatar.png`](../assets/anaai-avatar.png) |
+| Mascot/nameplate | [`assets/acoustai-mascot-plaque.png`](../assets/acoustai-mascot-plaque.png) | [`anaai-mascot-plaque.png`](../assets/anaai-mascot-plaque.png) |
+| Social preview (1280×640) | [`assets/acoustai-social-preview-1280x640.png`](../assets/acoustai-social-preview-1280x640.png) | Current GitHub setting remains unchanged until separately uploaded |
 
-The earlier SVG assets (`anaai-banner.svg`, `anaai-mark.svg`) remain as historical branding alternatives.
+The earlier SVG assets (`anaai-banner.svg`, `anaai-mark.svg`) also remain as historical branding alternatives.
 
-**Source of truth:** [Techbenders Drive · Projects / anaAI](https://drive.google.com/drive/folders/1jzh3H39KRWWqc_C7ELc-E7PMwXhw-Sgw).
+**Original approved art:** [Techbenders Drive · Projects / anaAI](https://drive.google.com/drive/folders/1jzh3H39KRWWqc_C7ELc-E7PMwXhw-Sgw).
 
-See the [M0.01 artwork checklist](M0.01-IDENTITY-MIGRATION.md#artwork-replacement-checklist) for the approval and replacement steps.
+**New candidate exports:** [AcoustAI M0.01 · Proposed Branding](https://drive.google.com/drive/folders/1zhaqlQSDHd2L7TaskkcR7Ok-_VTWqppw).
+
+The social-preview PNG is present in the repository and Drive, but **has not been applied in GitHub's Social preview settings**. The live repository rename likewise remains a separate administrative action.
+
+See the [M0.01 artwork checklist](M0.01-IDENTITY-MIGRATION.md#artwork-replacement-checklist) for acceptance steps.
 
 ## Brand-use permissions
 
@@ -21,7 +26,7 @@ We want AcoustAI's mascot to be recognizable, fun to draw, and welcoming to the 
 **To the extent the project owner controls the relevant rights**, the following permissions are offered for the repository's original anaAI mascot, logo, banner, and associated brand illustrations:
 
 - **Noncommercial sharing:** You may repost the official images, use them when discussing or linking to the project, and create and share noncommercial fan art or remixes.
-- **Attribution:** Credit **anaAI / Techbenders** and link to this repository where reasonably practical. For altered art, say that it is unofficial fan work.
+- **Attribution:** Credit **AcoustAI / Techbenders** and link to this repository where reasonably practical. For altered art, say that it is unofficial fan work.
 - **No implied endorsement:** Do not suggest that a derivative, account, package, or service is official, sponsored, or endorsed by Techbenders unless authorized.
 - **No third-party commercial branding:** Merchandise sales, advertising, paid promotions, commercial product packaging, use as another product's mascot, or licensing the assets to others requires prior permission from the project owner. This is a condition of the express permission above, not a statement about what copyright law independently allows.
 - **Project owner use:** Techbenders may use its own authorized artwork in its products, packaging, promotions, and merchandise, subject to any third-party rights.

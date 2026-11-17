@@ -1,6 +1,6 @@
 <div align="center">
 
-![Approved Baseline 2 banner bearing the original anaAI name](assets/anaai-banner.png)
+![AcoustAI acoustic fault-detection banner](assets/acoustai-banner.png)
 
 # AcoustAI
 
@@ -31,7 +31,7 @@ Printers already have sensors for temperatures, position, and sometimes filament
 
 **AcoustAI** explores whether a small, self-contained listener can distinguish those sounds from ordinary printing and provide a useful warning without sending audio to a cloud service.
 
-The name preserves the project's original inspiration in *active noise attenuation*. Its scope is now **acoustic analysis**, not active vibration cancellation.
+**AcoustAI** combines *acoustics* and *AI*: the project investigates whether local acoustic analysis can identify mechanical fault signatures. Its predecessor was inspired by active noise attenuation, but active vibration cancellation is not part of the current scope.
 
 ## The first problem
 
