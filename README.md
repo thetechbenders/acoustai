@@ -1,8 +1,8 @@
 <div align="center">
 
-![anaAI acoustic intelligence banner](assets/anaai-banner.png)
+![Approved Baseline 2 banner bearing the original anaAI name](assets/anaai-banner.png)
 
-# anaAI
+# AcoustAI
 
 ### Hear the fault before you see the failure.
 
@@ -25,11 +25,11 @@
 > [!IMPORTANT]
 > **Project status:** concept and repository foundation. There is no trained model, validated fault detector, tested firmware, or shipping hardware yet. The badges above describe intent and status, not test results.
 
-## Why anaAI?
+## Why AcoustAI?
 
 Printers already have sensors for temperatures, position, and sometimes filament presence. But many mechanical failures announce themselves audibly before a conventional sensor notices: an extruder clicking under load, a nozzle scraping across a print, or a fan beginning to rattle.
 
-**anaAI** explores whether a small, self-contained listener can distinguish those sounds from ordinary printing and provide a useful warning without sending audio to a cloud service.
+**AcoustAI** explores whether a small, self-contained listener can distinguish those sounds from ordinary printing and provide a useful warning without sending audio to a cloud service.
 
 The name preserves the project's original inspiration in *active noise attenuation*. Its scope is now **acoustic analysis**, not active vibration cancellation.
 
@@ -101,7 +101,7 @@ No numbers will be advertised before they're measured.
 
 Automatic pause commands, cloud inference, voice assistants, multi-printer fleet management, nozzle-scrape classification, proprietary printer integrations, new custom PCBs, and diagnosis of every possible mechanical problem.
 
-## Working on anaAI
+## Working on AcoustAI
 
 - Start with the [issue tracker](https://github.com/thetechbenders/anaAI/issues) and choose a small measurable slice.
 - Keep raw acoustic recordings and potentially identifying background speech out of Git history. Use a documented consent and data-retention policy.

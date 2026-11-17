@@ -1,6 +1,6 @@
-# anaAI brand kit · Approved Baseline 2
+# AcoustAI branding and permissions
 
-The assets below are the **approved canonical PNG artwork**, copied without regeneration from the verified Techbenders Google Drive project folder. They are not subject to the software AGPL license.
+The original **Approved Baseline 2** PNGs carry the former anaAI name and remain the approved artwork pending owner-approved AcoustAI replacements. The repository copies came from the Techbenders Google Drive project folder. These assets have separate brand-use permissions.
 
 | Asset | Repository file | Intended use |
 | --- | --- | --- |
@@ -8,22 +8,24 @@ The assets below are the **approved canonical PNG artwork**, copied without rege
 | Avatar | [`assets/anaai-avatar.png`](../assets/anaai-avatar.png) | Square avatar |
 | Mascot + nameplate | [`assets/anaai-mascot-plaque.png`](../assets/anaai-mascot-plaque.png) | Project identity illustration |
 
-The earlier SVG assets (`anaai-banner.svg`, `anaai-mark.svg`) remain as alternate project branding, not the approved Baseline 2 artwork.
+The earlier SVG assets (`anaai-banner.svg`, `anaai-mark.svg`) remain as historical branding alternatives.
 
 **Source of truth:** [Techbenders Drive · Projects / anaAI](https://drive.google.com/drive/folders/1jzh3H39KRWWqc_C7ELc-E7PMwXhw-Sgw).
 
+See the [M0.01 artwork checklist](M0.01-IDENTITY-MIGRATION.md#artwork-replacement-checklist) for the approval and replacement steps.
+
 ## Brand-use permissions
 
-We want anaAI's mascot to be recognizable, fun to draw, and welcoming to the maker community, without allowing unrelated businesses to present themselves as the official project.
+We want AcoustAI's mascot to be recognizable, fun to draw, and welcoming to the maker community, without allowing unrelated businesses to present themselves as the official project.
 
 **To the extent the project owner controls the relevant rights**, the following permissions are offered for the repository's original anaAI mascot, logo, banner, and associated brand illustrations:
 
-- **Noncommercial sharing:** You may repost the official images, use them when discussing or linking to anaAI, and create and share noncommercial fan art or remixes.
+- **Noncommercial sharing:** You may repost the official images, use them when discussing or linking to the project, and create and share noncommercial fan art or remixes.
 - **Attribution:** Credit **anaAI / Techbenders** and link to this repository where reasonably practical. For altered art, say that it is unofficial fan work.
 - **No implied endorsement:** Do not suggest that a derivative, account, package, or service is official, sponsored, or endorsed by Techbenders unless authorized.
 - **No third-party commercial branding:** Merchandise sales, advertising, paid promotions, commercial product packaging, use as another product's mascot, or licensing the assets to others requires prior permission from the project owner. This is a condition of the express permission above, not a statement about what copyright law independently allows.
 - **Project owner use:** Techbenders may use its own authorized artwork in its products, packaging, promotions, and merchandise, subject to any third-party rights.
-- **No trademark grant:** These permissions do not grant rights to register or claim ownership of anaAI, Techbenders, or related marks. No registered trademark is asserted by this document.
+- **No trademark grant:** These permissions do not grant rights to register or claim ownership of AcoustAI, anaAI, Techbenders, or related marks. No registered trademark is asserted by this document.
 
 Permissions here are nonexclusive and do not transfer ownership. They cannot extend to third-party contributions or external assets without the relevant rightsholder's authorization. A person may still have other rights under applicable law (such as quotation, parody, or fair use) independent of this policy.
 

@@ -1,4 +1,4 @@
-# Contributing to anaAI
+# Contributing to AcoustAI
 
 We welcome focused, reproducible contributions in acoustics, signal processing, embedded inference, test design, and documentation.
 

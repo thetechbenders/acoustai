@@ -1,6 +1,6 @@
 # Security and responsible testing
 
-anaAI is experimental hardware. There is **no validated safety function or released firmware**.
+AcoustAI is experimental hardware. There is **no validated safety function or released firmware**.
 
 ## Reports
 

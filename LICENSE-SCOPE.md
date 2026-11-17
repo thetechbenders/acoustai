@@ -1,4 +1,4 @@
-# anaAI license scope and brand permissions
+# AcoustAI license scope and brand permissions
 
 ## Software and documentation
 
